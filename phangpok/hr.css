@@ -1,0 +1,16 @@
+.separator{
+  position: relative;
+    display:flex;
+    align-items: center;
+    top:-3em;
+  }
+  
+  .separator .line{
+    height: 1px;
+    flex: 1;
+    background-color: rgba(122, 117, 113, 0.508);
+  }
+  
+  .separator div{
+    padding: 0 2rem;
+  }

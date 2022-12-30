@@ -1,0 +1,206 @@
+.btn1{
+    position: relative;
+    background-color: #3f6676;
+    border: none;
+    border-radius: 5%;
+    color: white;
+    padding: 12px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    justify-content: center;
+    box-shadow: 0 2px 8px -1px rgb(21 25 36);
+    width: 2.5em;
+    
+
+}
+
+
+.btn2{
+    position: relative;
+    background-color: #c92a23;
+    border: none;
+    border-radius: 5%;
+    color: white;
+    padding: 12px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 0 2px 8px -1px rgb(21 25 36);
+    width: 10em;
+    
+
+    
+
+}
+
+.btn4{
+line-height: 1em;
+background-color: #c92a23; 
+position: relative;
+border: none;
+border-radius: 5%;
+color: white;
+
+display: flex;
+justify-content: space-around;
+/* text-align: center; */
+text-decoration: none;
+/* display: inline-block; */
+box-shadow: 0 2px 8px -1px rgb(21 25 36);
+width: 15em;
+
+
+
+}
+
+
+
+.btn3{
+    position: relative;
+    background-color: #053a58;
+    border: none;
+    border-radius: 5%;
+    color: white;
+    padding: 12px 12px;
+    display: flex;
+    justify-content: space-around;
+    /* text-align: center; */
+    text-decoration: none;
+    /* display: inline-block; */
+    box-shadow: 0 2px 8px -1px rgb(21 25 36);
+    width: 15em;
+
+    
+
+}
+
+
+
+/* .btn3{
+    position: relative;
+    background-color: #545a5f;
+    border: none;
+    border-radius: 5%;
+    color: white;
+    padding: 12px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 0 2px 8px -1px rgb(21 25 36);
+    width : 15em;
+    height:1.5em;
+
+
+
+} */
+
+
+
+.btn_style_3{
+
+
+
+
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    top:-1em;
+
+
+    }
+
+.connect_btn_area{
+
+    position: relative;
+    top: -1.5em; 
+}
+
+
+.btn_add_contact{
+    position: relative;
+    background-color: #d19209;
+    border: none;
+    border-radius: 5%;
+    color: white;
+    padding: 12px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 0 2px 8px -1px rgb(21 25 36);
+    left: 1em;
+    top: 5em;
+
+}
+
+.btn_add_to_apple_wallet{
+    position: relative;
+    border: none;
+    border-radius: 5%;
+    color: white;
+    padding: 12px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+
+    top: 4em;
+
+}
+
+
+.connect_btn_text{
+
+    font-size: 1.2em;
+    padding-top: 0.2em;
+}
+/* .fa fa-whatsapp{
+font-size: 30px;
+} */
+
+.connect_btn_text2{
+
+    font-size: 1.2em;
+    padding-top: 0.8em;
+}
+/* .fa fa-whatsapp{
+font-size: 30px;
+} */
+
+
+.btn_style2{
+
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    top:-1em;
+
+    
+    }
+
+
+
+    .footer_add_to_wallet{
+        position: relative;
+        display: flex;
+        justify-content: center;
+
+
+    
+        
+    }
+
+  .id_hyperlink{
+
+    position: relative; 
+ 
+    display: flex;
+    justify-content: space-between;
+
+    z-index: 9999;
+  }
+
+  .div_hyper_link{
+    display:block;
+    z-index: 9999;
+  }
